@@ -8,6 +8,7 @@ import hashlib
 import json
 import math
 import re
+import unicodedata
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / 'site'
@@ -158,9 +159,16 @@ def company():
         cell = BeautifulSoup(str(row.td),'html.parser')
         for a in cell.select('a'):
             if 'Googlemap' in a.get_text(): a.decompose()
-        value = compact(cell)
+        for br in cell.select('br'):
+            br.replace_with('\n')
+        lines = [re.sub(r'\s+', ' ', line).strip() for line in cell.get_text().splitlines() if line.strip()]
+        value = ''.join('<span class="address-line">'+prose(unicodedata.normalize('NFKC', line))+'</span>' for line in lines)
+        if key == '所在地':
+            value = '<span class="address-line">岡山市中区福泊263-1</span><span class="address-line"><a class="keep" href="tel:0862014133">TEL.086-201-4133</a></span><span class="address-line keep">FAX.086-201-4132</span>'
+        if key == 'お問合せ':
+            value = '<a class="keep" href="mailto:waraku@able.ocn.ne.jp">waraku@able.ocn.ne.jp</a>'
         if key=='称号':key='会社名'
-        table += f'<div><dt>{key}</dt><dd>{prose(value)}</dd></div>'
+        table += f'<div><dt>{key}</dt><dd>{value}</dd></div>'
     return '<main id="main">' + page_intro('会社概要','住み慣れた地域で暮らしたいと望まれる皆様のために。株式会社和楽をご紹介します。','株式会社 和楽') + f'<section class="section-space white-section"><div class="container company-grid"><div><h2 class="company-title">株式会社 和楽</h2><dl class="company-table">{table}</dl></div><aside>{source_figure("img_section01.png","現行サイト掲載の施設内写真")}{source_figure("company/map.png","現行サイト掲載のアクセス案内図")}<a class="button button-outline google-map-link" href="https://www.google.com/maps/search/?api=1&amp;query=%E5%B2%A1%E5%B1%B1%E5%B8%82%E4%B8%AD%E5%8C%BA%E7%A6%8F%E6%B3%8A263-1" target="_blank" rel="noopener noreferrer">{icon("pin")}Googleマップで見る ↗</a></aside></div></section></main>'
 
 def recruit():
