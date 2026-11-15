@@ -3,3 +3,5 @@
 .venv/
 node_modules/
 qa/*-full.png
+site/assets/source/
+__pycache__/

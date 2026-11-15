@@ -1,0 +1,43 @@
+{
+  "navigation": "http://127.0.0.1:8798/dayservice/",
+  "timelineRows": 9,
+  "flowDialog": true,
+  "initialCount": "201件の記事",
+  "keyword": {
+    "count": "1件の記事",
+    "titles": [
+      "生産性向上のための取り組み"
+    ]
+  },
+  "querySurvivesReload": "1件の記事",
+  "month": {
+    "count": "1件の記事",
+    "titles": [
+      "秋ですねぇ"
+    ]
+  },
+  "pagination": {
+    "status": "2 / 17",
+    "changedFirst": true
+  },
+  "paginationReturnsFirst": true,
+  "emptyResults": true,
+  "archiveLinks": 55,
+  "menuOpen": true,
+  "menuLocalLinks": 8,
+  "menuFocusReturns": true,
+  "postZoom": {
+    "open": true,
+    "loaded": true,
+    "fits": true
+  },
+  "photoFocusReturns": true,
+  "contact": {
+    "phone": [
+      "tel:0862014133"
+    ],
+    "mail": [
+      "mailto:waraku@able.ocn.ne.jp"
+    ]
+  }
+}

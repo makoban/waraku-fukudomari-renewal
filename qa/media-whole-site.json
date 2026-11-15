@@ -1,0 +1,1394 @@
+[
+  {
+    "path": "",
+    "width": 390,
+    "dpr": 2,
+    "images": [
+      {
+        "file": "home-daily-800.webp",
+        "renderedWidth": 350,
+        "loaded": true
+      },
+      {
+        "file": "c832e7cff964-480.webp",
+        "renderedWidth": 106,
+        "loaded": true
+      },
+      {
+        "file": "80aa6c2ab5f1-480.webp",
+        "renderedWidth": 106,
+        "loaded": true
+      },
+      {
+        "file": "consultation-480.webp",
+        "renderedWidth": 106,
+        "loaded": true
+      },
+      {
+        "file": "97d050523191-480.webp",
+        "renderedWidth": 332,
+        "loaded": true
+      },
+      {
+        "file": "6948f6b91476-480.webp",
+        "renderedWidth": 151,
+        "loaded": true
+      },
+      {
+        "file": "90375bcd27f3-480.webp",
+        "renderedWidth": 151,
+        "loaded": true
+      },
+      {
+        "file": "9557e6e7f375-480.webp",
+        "renderedWidth": 167,
+        "loaded": true
+      },
+      {
+        "file": "c4387e886659-480.webp",
+        "renderedWidth": 167,
+        "loaded": true
+      },
+      {
+        "file": "0502def7aff2-480.webp",
+        "renderedWidth": 167,
+        "loaded": true
+      },
+      {
+        "file": "company-logo.png",
+        "renderedWidth": 93,
+        "loaded": true
+      }
+    ],
+    "allVisibleImagesLoaded": true,
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "encodedBodySize": 160124,
+        "transferSize": 160424
+      },
+      {
+        "file": "home-daily-800.webp",
+        "encodedBodySize": 66928,
+        "transferSize": 67228
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "encodedBodySize": 107196,
+        "transferSize": 107496
+      },
+      {
+        "file": "noto-sans-jp-2.woff2",
+        "encodedBodySize": 183080,
+        "transferSize": 183380
+      },
+      {
+        "file": "c832e7cff964-480.webp",
+        "encodedBodySize": 56050,
+        "transferSize": 56350
+      },
+      {
+        "file": "80aa6c2ab5f1-480.webp",
+        "encodedBodySize": 53658,
+        "transferSize": 53958
+      },
+      {
+        "file": "consultation-480.webp",
+        "encodedBodySize": 25502,
+        "transferSize": 25802
+      },
+      {
+        "file": "favicon.svg",
+        "encodedBodySize": 281,
+        "transferSize": 581
+      },
+      {
+        "file": "97d050523191-480.webp",
+        "encodedBodySize": 15504,
+        "transferSize": 15804
+      },
+      {
+        "file": "6948f6b91476-480.webp",
+        "encodedBodySize": 23140,
+        "transferSize": 23440
+      },
+      {
+        "file": "90375bcd27f3-480.webp",
+        "encodedBodySize": 32614,
+        "transferSize": 32914
+      },
+      {
+        "file": "9557e6e7f375-480.webp",
+        "encodedBodySize": 42278,
+        "transferSize": 42578
+      },
+      {
+        "file": "0502def7aff2-480.webp",
+        "encodedBodySize": 22472,
+        "transferSize": 22772
+      },
+      {
+        "file": "c4387e886659-480.webp",
+        "encodedBodySize": 68876,
+        "transferSize": 69176
+      },
+      {
+        "file": "company-logo.png",
+        "encodedBodySize": 4024,
+        "transferSize": 4324
+      }
+    ],
+    "encodedMediaBytes": 861727,
+    "errors": []
+  },
+  {
+    "path": "rehabilitation/",
+    "width": 390,
+    "dpr": 2,
+    "images": [
+      {
+        "file": "d4651d6c1506-480.webp",
+        "renderedWidth": 332,
+        "loaded": true
+      },
+      {
+        "file": "ec974e2667e9-480.webp",
+        "renderedWidth": 332,
+        "loaded": true
+      },
+      {
+        "file": "efd0bca0a8c1-480.webp",
+        "renderedWidth": 332,
+        "loaded": true
+      },
+      {
+        "file": "d19920767d8b-480.webp",
+        "renderedWidth": 332,
+        "loaded": true
+      },
+      {
+        "file": "f9ccc27a7d0f-480.webp",
+        "renderedWidth": 332,
+        "loaded": true
+      },
+      {
+        "file": "0f7402ac7b3b-480.webp",
+        "renderedWidth": 332,
+        "loaded": true
+      },
+      {
+        "file": "company-logo.png",
+        "renderedWidth": 93,
+        "loaded": true
+      }
+    ],
+    "allVisibleImagesLoaded": true,
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "encodedBodySize": 160124,
+        "transferSize": 0
+      },
+      {
+        "file": "company-logo.png",
+        "encodedBodySize": 4024,
+        "transferSize": 0
+      },
+      {
+        "file": "noto-sans-jp-2.woff2",
+        "encodedBodySize": 183080,
+        "transferSize": 0
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "encodedBodySize": 107196,
+        "transferSize": 0
+      },
+      {
+        "file": "favicon.svg",
+        "encodedBodySize": 281,
+        "transferSize": 0
+      },
+      {
+        "file": "d4651d6c1506-480.webp",
+        "encodedBodySize": 23132,
+        "transferSize": 23432
+      },
+      {
+        "file": "ec974e2667e9-480.webp",
+        "encodedBodySize": 17630,
+        "transferSize": 17930
+      },
+      {
+        "file": "efd0bca0a8c1-480.webp",
+        "encodedBodySize": 29754,
+        "transferSize": 30054
+      },
+      {
+        "file": "d19920767d8b-480.webp",
+        "encodedBodySize": 22918,
+        "transferSize": 23218
+      },
+      {
+        "file": "f9ccc27a7d0f-480.webp",
+        "encodedBodySize": 19328,
+        "transferSize": 19628
+      },
+      {
+        "file": "0f7402ac7b3b-480.webp",
+        "encodedBodySize": 21710,
+        "transferSize": 22010
+      }
+    ],
+    "encodedMediaBytes": 589177,
+    "errors": []
+  },
+  {
+    "path": "dayservice/",
+    "width": 390,
+    "dpr": 2,
+    "images": [
+      {
+        "file": "c832e7cff964-610.webp",
+        "renderedWidth": 350,
+        "loaded": true
+      },
+      {
+        "file": "company-logo.png",
+        "renderedWidth": 93,
+        "loaded": true
+      }
+    ],
+    "allVisibleImagesLoaded": true,
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "encodedBodySize": 160124,
+        "transferSize": 0
+      },
+      {
+        "file": "c832e7cff964-610.webp",
+        "encodedBodySize": 67550,
+        "transferSize": 67850
+      },
+      {
+        "file": "company-logo.png",
+        "encodedBodySize": 4024,
+        "transferSize": 0
+      },
+      {
+        "file": "noto-sans-jp-2.woff2",
+        "encodedBodySize": 183080,
+        "transferSize": 0
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "encodedBodySize": 107196,
+        "transferSize": 0
+      },
+      {
+        "file": "favicon.svg",
+        "encodedBodySize": 281,
+        "transferSize": 0
+      }
+    ],
+    "encodedMediaBytes": 522255,
+    "errors": []
+  },
+  {
+    "path": "cafe/",
+    "width": 390,
+    "dpr": 2,
+    "images": [
+      {
+        "file": "80aa6c2ab5f1-610.webp",
+        "renderedWidth": 350,
+        "loaded": true
+      },
+      {
+        "file": "company-logo.png",
+        "renderedWidth": 93,
+        "loaded": true
+      }
+    ],
+    "allVisibleImagesLoaded": true,
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "encodedBodySize": 160124,
+        "transferSize": 0
+      },
+      {
+        "file": "80aa6c2ab5f1-610.webp",
+        "encodedBodySize": 62296,
+        "transferSize": 62596
+      },
+      {
+        "file": "company-logo.png",
+        "encodedBodySize": 4024,
+        "transferSize": 0
+      },
+      {
+        "file": "noto-sans-jp-2.woff2",
+        "encodedBodySize": 183080,
+        "transferSize": 0
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "encodedBodySize": 107196,
+        "transferSize": 0
+      },
+      {
+        "file": "favicon.svg",
+        "encodedBodySize": 281,
+        "transferSize": 0
+      }
+    ],
+    "encodedMediaBytes": 517001,
+    "errors": []
+  },
+  {
+    "path": "careplan/",
+    "width": 390,
+    "dpr": 2,
+    "images": [
+      {
+        "file": "consultation-800.webp",
+        "renderedWidth": 350,
+        "loaded": true
+      },
+      {
+        "file": "family-800.webp",
+        "renderedWidth": 350,
+        "loaded": true
+      },
+      {
+        "file": "facility-360.webp",
+        "renderedWidth": 151,
+        "loaded": true
+      },
+      {
+        "file": "footer-360.webp",
+        "renderedWidth": 151,
+        "loaded": true
+      },
+      {
+        "file": "company-logo.png",
+        "renderedWidth": 93,
+        "loaded": true
+      }
+    ],
+    "allVisibleImagesLoaded": true,
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "encodedBodySize": 160124,
+        "transferSize": 0
+      },
+      {
+        "file": "consultation-800.webp",
+        "encodedBodySize": 63536,
+        "transferSize": 63836
+      },
+      {
+        "file": "company-logo.png",
+        "encodedBodySize": 4024,
+        "transferSize": 0
+      },
+      {
+        "file": "noto-sans-jp-2.woff2",
+        "encodedBodySize": 183080,
+        "transferSize": 0
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "encodedBodySize": 107196,
+        "transferSize": 0
+      },
+      {
+        "file": "family-800.webp",
+        "encodedBodySize": 54390,
+        "transferSize": 54690
+      },
+      {
+        "file": "favicon.svg",
+        "encodedBodySize": 281,
+        "transferSize": 0
+      },
+      {
+        "file": "facility-360.webp",
+        "encodedBodySize": 10022,
+        "transferSize": 10322
+      },
+      {
+        "file": "footer-360.webp",
+        "encodedBodySize": 12810,
+        "transferSize": 13110
+      }
+    ],
+    "encodedMediaBytes": 595463,
+    "errors": []
+  },
+  {
+    "path": "recruit/",
+    "width": 390,
+    "dpr": 2,
+    "images": [
+      {
+        "file": "c832e7cff964-610.webp",
+        "renderedWidth": 350,
+        "loaded": true
+      },
+      {
+        "file": "company-logo.png",
+        "renderedWidth": 93,
+        "loaded": true
+      }
+    ],
+    "allVisibleImagesLoaded": true,
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "encodedBodySize": 160124,
+        "transferSize": 0
+      },
+      {
+        "file": "c832e7cff964-610.webp",
+        "encodedBodySize": 67550,
+        "transferSize": 0
+      },
+      {
+        "file": "company-logo.png",
+        "encodedBodySize": 4024,
+        "transferSize": 0
+      },
+      {
+        "file": "noto-sans-jp-2.woff2",
+        "encodedBodySize": 183080,
+        "transferSize": 0
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "encodedBodySize": 107196,
+        "transferSize": 0
+      },
+      {
+        "file": "favicon.svg",
+        "encodedBodySize": 281,
+        "transferSize": 0
+      }
+    ],
+    "encodedMediaBytes": 522255,
+    "errors": []
+  },
+  {
+    "path": "blog/",
+    "width": 390,
+    "dpr": 2,
+    "images": [
+      {
+        "file": "9557e6e7f375-480.webp",
+        "renderedWidth": 167,
+        "loaded": true
+      },
+      {
+        "file": "c4387e886659-480.webp",
+        "renderedWidth": 167,
+        "loaded": true
+      },
+      {
+        "file": "0502def7aff2-480.webp",
+        "renderedWidth": 167,
+        "loaded": true
+      },
+      {
+        "file": "726459b16e47-480.webp",
+        "renderedWidth": 167,
+        "loaded": true
+      },
+      {
+        "file": "67fac49bb85d-480.webp",
+        "renderedWidth": 167,
+        "loaded": true
+      },
+      {
+        "file": "1533761f94ff-480.webp",
+        "renderedWidth": 167,
+        "loaded": true
+      },
+      {
+        "file": "a2a2e6d3b805-480.webp",
+        "renderedWidth": 167,
+        "loaded": true
+      },
+      {
+        "file": "cd957f92b99d-480.webp",
+        "renderedWidth": 167,
+        "loaded": true
+      },
+      {
+        "file": "02baab9ed0ff-480.webp",
+        "renderedWidth": 167,
+        "loaded": true
+      },
+      {
+        "file": "88055b07a0ce-480.webp",
+        "renderedWidth": 167,
+        "loaded": true
+      },
+      {
+        "file": "b08a6da00ad5-480.webp",
+        "renderedWidth": 167,
+        "loaded": true
+      },
+      {
+        "file": "company-logo.png",
+        "renderedWidth": 93,
+        "loaded": true
+      }
+    ],
+    "allVisibleImagesLoaded": true,
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "encodedBodySize": 160124,
+        "transferSize": 0
+      },
+      {
+        "file": "9557e6e7f375-480.webp",
+        "encodedBodySize": 42278,
+        "transferSize": 0
+      },
+      {
+        "file": "c4387e886659-480.webp",
+        "encodedBodySize": 68876,
+        "transferSize": 0
+      },
+      {
+        "file": "0502def7aff2-480.webp",
+        "encodedBodySize": 22472,
+        "transferSize": 0
+      },
+      {
+        "file": "company-logo.png",
+        "encodedBodySize": 4024,
+        "transferSize": 0
+      },
+      {
+        "file": "noto-sans-jp-2.woff2",
+        "encodedBodySize": 183080,
+        "transferSize": 0
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "encodedBodySize": 107196,
+        "transferSize": 0
+      },
+      {
+        "file": "726459b16e47-480.webp",
+        "encodedBodySize": 53442,
+        "transferSize": 53742
+      },
+      {
+        "file": "67fac49bb85d-480.webp",
+        "encodedBodySize": 80450,
+        "transferSize": 80750
+      },
+      {
+        "file": "1533761f94ff-480.webp",
+        "encodedBodySize": 71172,
+        "transferSize": 71472
+      },
+      {
+        "file": "a2a2e6d3b805-480.webp",
+        "encodedBodySize": 32894,
+        "transferSize": 33194
+      },
+      {
+        "file": "02baab9ed0ff-480.webp",
+        "encodedBodySize": 64526,
+        "transferSize": 64826
+      },
+      {
+        "file": "cd957f92b99d-480.webp",
+        "encodedBodySize": 68868,
+        "transferSize": 69168
+      },
+      {
+        "file": "favicon.svg",
+        "encodedBodySize": 281,
+        "transferSize": 0
+      },
+      {
+        "file": "b08a6da00ad5-480.webp",
+        "encodedBodySize": 31106,
+        "transferSize": 31406
+      },
+      {
+        "file": "88055b07a0ce-480.webp",
+        "encodedBodySize": 59190,
+        "transferSize": 59490
+      }
+    ],
+    "encodedMediaBytes": 1049979,
+    "errors": []
+  },
+  {
+    "path": "company/",
+    "width": 390,
+    "dpr": 2,
+    "images": [
+      {
+        "file": "97d050523191-480.webp",
+        "renderedWidth": 150,
+        "loaded": true
+      },
+      {
+        "file": "d5ed5e436536-410.webp",
+        "renderedWidth": 150,
+        "loaded": true
+      },
+      {
+        "file": "company-logo.png",
+        "renderedWidth": 93,
+        "loaded": true
+      }
+    ],
+    "allVisibleImagesLoaded": true,
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "encodedBodySize": 160124,
+        "transferSize": 0
+      },
+      {
+        "file": "97d050523191-480.webp",
+        "encodedBodySize": 15504,
+        "transferSize": 0
+      },
+      {
+        "file": "company-logo.png",
+        "encodedBodySize": 4024,
+        "transferSize": 0
+      },
+      {
+        "file": "noto-sans-jp-2.woff2",
+        "encodedBodySize": 183080,
+        "transferSize": 0
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "encodedBodySize": 107196,
+        "transferSize": 0
+      },
+      {
+        "file": "favicon.svg",
+        "encodedBodySize": 281,
+        "transferSize": 0
+      },
+      {
+        "file": "d5ed5e436536-410.webp",
+        "encodedBodySize": 58396,
+        "transferSize": 58696
+      }
+    ],
+    "encodedMediaBytes": 528605,
+    "errors": []
+  },
+  {
+    "path": "",
+    "width": 1440,
+    "dpr": 1,
+    "images": [
+      {
+        "file": "home-daily-800.webp",
+        "renderedWidth": 636,
+        "loaded": true
+      },
+      {
+        "file": "c832e7cff964-480.webp",
+        "renderedWidth": 265,
+        "loaded": true
+      },
+      {
+        "file": "80aa6c2ab5f1-480.webp",
+        "renderedWidth": 265,
+        "loaded": true
+      },
+      {
+        "file": "consultation-480.webp",
+        "renderedWidth": 288,
+        "loaded": true
+      },
+      {
+        "file": "97d050523191-480.webp",
+        "renderedWidth": 532,
+        "loaded": true
+      },
+      {
+        "file": "6948f6b91476-480.webp",
+        "renderedWidth": 312,
+        "loaded": true
+      },
+      {
+        "file": "90375bcd27f3-480.webp",
+        "renderedWidth": 312,
+        "loaded": true
+      },
+      {
+        "file": "9557e6e7f375-480.webp",
+        "renderedWidth": 380,
+        "loaded": true
+      },
+      {
+        "file": "c4387e886659-480.webp",
+        "renderedWidth": 380,
+        "loaded": true
+      },
+      {
+        "file": "0502def7aff2-480.webp",
+        "renderedWidth": 380,
+        "loaded": true
+      },
+      {
+        "file": "company-logo.png",
+        "renderedWidth": 105,
+        "loaded": true
+      }
+    ],
+    "allVisibleImagesLoaded": true,
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "encodedBodySize": 160124,
+        "transferSize": 160424
+      },
+      {
+        "file": "home-daily-800.webp",
+        "encodedBodySize": 66928,
+        "transferSize": 67228
+      },
+      {
+        "file": "noto-sans-jp-2.woff2",
+        "encodedBodySize": 183080,
+        "transferSize": 183380
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "encodedBodySize": 107196,
+        "transferSize": 107496
+      },
+      {
+        "file": "c832e7cff964-480.webp",
+        "encodedBodySize": 56050,
+        "transferSize": 56350
+      },
+      {
+        "file": "consultation-480.webp",
+        "encodedBodySize": 25502,
+        "transferSize": 25802
+      },
+      {
+        "file": "97d050523191-480.webp",
+        "encodedBodySize": 15504,
+        "transferSize": 15804
+      },
+      {
+        "file": "80aa6c2ab5f1-480.webp",
+        "encodedBodySize": 53658,
+        "transferSize": 53958
+      },
+      {
+        "file": "favicon.svg",
+        "encodedBodySize": 281,
+        "transferSize": 581
+      },
+      {
+        "file": "90375bcd27f3-480.webp",
+        "encodedBodySize": 32614,
+        "transferSize": 32914
+      },
+      {
+        "file": "6948f6b91476-480.webp",
+        "encodedBodySize": 23140,
+        "transferSize": 23440
+      },
+      {
+        "file": "c4387e886659-480.webp",
+        "encodedBodySize": 68876,
+        "transferSize": 69176
+      },
+      {
+        "file": "9557e6e7f375-480.webp",
+        "encodedBodySize": 42278,
+        "transferSize": 42578
+      },
+      {
+        "file": "0502def7aff2-480.webp",
+        "encodedBodySize": 22472,
+        "transferSize": 22772
+      },
+      {
+        "file": "company-logo.png",
+        "encodedBodySize": 4024,
+        "transferSize": 4324
+      }
+    ],
+    "encodedMediaBytes": 861727,
+    "errors": []
+  },
+  {
+    "path": "rehabilitation/",
+    "width": 1440,
+    "dpr": 1,
+    "images": [
+      {
+        "file": "d4651d6c1506-480.webp",
+        "renderedWidth": 550,
+        "loaded": true
+      },
+      {
+        "file": "ec974e2667e9-480.webp",
+        "renderedWidth": 550,
+        "loaded": true
+      },
+      {
+        "file": "efd0bca0a8c1-480.webp",
+        "renderedWidth": 550,
+        "loaded": true
+      },
+      {
+        "file": "d19920767d8b-480.webp",
+        "renderedWidth": 550,
+        "loaded": true
+      },
+      {
+        "file": "f9ccc27a7d0f-480.webp",
+        "renderedWidth": 550,
+        "loaded": true
+      },
+      {
+        "file": "0f7402ac7b3b-480.webp",
+        "renderedWidth": 550,
+        "loaded": true
+      },
+      {
+        "file": "company-logo.png",
+        "renderedWidth": 105,
+        "loaded": true
+      }
+    ],
+    "allVisibleImagesLoaded": true,
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "encodedBodySize": 160124,
+        "transferSize": 0
+      },
+      {
+        "file": "company-logo.png",
+        "encodedBodySize": 4024,
+        "transferSize": 0
+      },
+      {
+        "file": "noto-sans-jp-2.woff2",
+        "encodedBodySize": 183080,
+        "transferSize": 0
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "encodedBodySize": 107196,
+        "transferSize": 0
+      },
+      {
+        "file": "d4651d6c1506-480.webp",
+        "encodedBodySize": 23132,
+        "transferSize": 23432
+      },
+      {
+        "file": "ec974e2667e9-480.webp",
+        "encodedBodySize": 17630,
+        "transferSize": 17930
+      },
+      {
+        "file": "efd0bca0a8c1-480.webp",
+        "encodedBodySize": 29754,
+        "transferSize": 30054
+      },
+      {
+        "file": "favicon.svg",
+        "encodedBodySize": 281,
+        "transferSize": 0
+      },
+      {
+        "file": "d19920767d8b-480.webp",
+        "encodedBodySize": 22918,
+        "transferSize": 23218
+      },
+      {
+        "file": "f9ccc27a7d0f-480.webp",
+        "encodedBodySize": 19328,
+        "transferSize": 19628
+      },
+      {
+        "file": "0f7402ac7b3b-480.webp",
+        "encodedBodySize": 21710,
+        "transferSize": 22010
+      }
+    ],
+    "encodedMediaBytes": 589177,
+    "errors": []
+  },
+  {
+    "path": "dayservice/",
+    "width": 1440,
+    "dpr": 1,
+    "images": [
+      {
+        "file": "c832e7cff964-610.webp",
+        "renderedWidth": 536,
+        "loaded": true
+      },
+      {
+        "file": "company-logo.png",
+        "renderedWidth": 105,
+        "loaded": true
+      }
+    ],
+    "allVisibleImagesLoaded": true,
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "encodedBodySize": 160124,
+        "transferSize": 0
+      },
+      {
+        "file": "c832e7cff964-610.webp",
+        "encodedBodySize": 67550,
+        "transferSize": 67850
+      },
+      {
+        "file": "company-logo.png",
+        "encodedBodySize": 4024,
+        "transferSize": 0
+      },
+      {
+        "file": "noto-sans-jp-2.woff2",
+        "encodedBodySize": 183080,
+        "transferSize": 0
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "encodedBodySize": 107196,
+        "transferSize": 0
+      },
+      {
+        "file": "favicon.svg",
+        "encodedBodySize": 281,
+        "transferSize": 0
+      }
+    ],
+    "encodedMediaBytes": 522255,
+    "errors": []
+  },
+  {
+    "path": "cafe/",
+    "width": 1440,
+    "dpr": 1,
+    "images": [
+      {
+        "file": "80aa6c2ab5f1-610.webp",
+        "renderedWidth": 536,
+        "loaded": true
+      },
+      {
+        "file": "company-logo.png",
+        "renderedWidth": 105,
+        "loaded": true
+      }
+    ],
+    "allVisibleImagesLoaded": true,
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "encodedBodySize": 160124,
+        "transferSize": 0
+      },
+      {
+        "file": "80aa6c2ab5f1-610.webp",
+        "encodedBodySize": 62296,
+        "transferSize": 62596
+      },
+      {
+        "file": "company-logo.png",
+        "encodedBodySize": 4024,
+        "transferSize": 0
+      },
+      {
+        "file": "noto-sans-jp-2.woff2",
+        "encodedBodySize": 183080,
+        "transferSize": 0
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "encodedBodySize": 107196,
+        "transferSize": 0
+      },
+      {
+        "file": "favicon.svg",
+        "encodedBodySize": 281,
+        "transferSize": 0
+      }
+    ],
+    "encodedMediaBytes": 517001,
+    "errors": []
+  },
+  {
+    "path": "careplan/",
+    "width": 1440,
+    "dpr": 1,
+    "images": [
+      {
+        "file": "consultation-800.webp",
+        "renderedWidth": 636,
+        "loaded": true
+      },
+      {
+        "file": "family-800.webp",
+        "renderedWidth": 636,
+        "loaded": true
+      },
+      {
+        "file": "facility-360.webp",
+        "renderedWidth": 265,
+        "loaded": true
+      },
+      {
+        "file": "footer-360.webp",
+        "renderedWidth": 265,
+        "loaded": true
+      },
+      {
+        "file": "company-logo.png",
+        "renderedWidth": 105,
+        "loaded": true
+      }
+    ],
+    "allVisibleImagesLoaded": true,
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "encodedBodySize": 160124,
+        "transferSize": 0
+      },
+      {
+        "file": "consultation-800.webp",
+        "encodedBodySize": 63536,
+        "transferSize": 63836
+      },
+      {
+        "file": "company-logo.png",
+        "encodedBodySize": 4024,
+        "transferSize": 0
+      },
+      {
+        "file": "noto-sans-jp-2.woff2",
+        "encodedBodySize": 183080,
+        "transferSize": 0
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "encodedBodySize": 107196,
+        "transferSize": 0
+      },
+      {
+        "file": "favicon.svg",
+        "encodedBodySize": 281,
+        "transferSize": 0
+      },
+      {
+        "file": "family-800.webp",
+        "encodedBodySize": 54390,
+        "transferSize": 54690
+      },
+      {
+        "file": "facility-360.webp",
+        "encodedBodySize": 10022,
+        "transferSize": 10322
+      },
+      {
+        "file": "footer-360.webp",
+        "encodedBodySize": 12810,
+        "transferSize": 13110
+      }
+    ],
+    "encodedMediaBytes": 595463,
+    "errors": []
+  },
+  {
+    "path": "recruit/",
+    "width": 1440,
+    "dpr": 1,
+    "images": [
+      {
+        "file": "c832e7cff964-610.webp",
+        "renderedWidth": 536,
+        "loaded": true
+      },
+      {
+        "file": "company-logo.png",
+        "renderedWidth": 105,
+        "loaded": true
+      }
+    ],
+    "allVisibleImagesLoaded": true,
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "encodedBodySize": 160124,
+        "transferSize": 0
+      },
+      {
+        "file": "c832e7cff964-610.webp",
+        "encodedBodySize": 67550,
+        "transferSize": 0
+      },
+      {
+        "file": "company-logo.png",
+        "encodedBodySize": 4024,
+        "transferSize": 0
+      },
+      {
+        "file": "noto-sans-jp-2.woff2",
+        "encodedBodySize": 183080,
+        "transferSize": 0
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "encodedBodySize": 107196,
+        "transferSize": 0
+      },
+      {
+        "file": "favicon.svg",
+        "encodedBodySize": 281,
+        "transferSize": 0
+      }
+    ],
+    "encodedMediaBytes": 522255,
+    "errors": []
+  },
+  {
+    "path": "blog/",
+    "width": 1440,
+    "dpr": 1,
+    "images": [
+      {
+        "file": "9557e6e7f375-480.webp",
+        "renderedWidth": 347,
+        "loaded": true
+      },
+      {
+        "file": "c4387e886659-480.webp",
+        "renderedWidth": 347,
+        "loaded": true
+      },
+      {
+        "file": "0502def7aff2-480.webp",
+        "renderedWidth": 347,
+        "loaded": true
+      },
+      {
+        "file": "726459b16e47-480.webp",
+        "renderedWidth": 347,
+        "loaded": true
+      },
+      {
+        "file": "67fac49bb85d-480.webp",
+        "renderedWidth": 347,
+        "loaded": true
+      },
+      {
+        "file": "1533761f94ff-480.webp",
+        "renderedWidth": 347,
+        "loaded": true
+      },
+      {
+        "file": "a2a2e6d3b805-480.webp",
+        "renderedWidth": 347,
+        "loaded": true
+      },
+      {
+        "file": "cd957f92b99d-480.webp",
+        "renderedWidth": 347,
+        "loaded": true
+      },
+      {
+        "file": "02baab9ed0ff-480.webp",
+        "renderedWidth": 347,
+        "loaded": true
+      },
+      {
+        "file": "88055b07a0ce-480.webp",
+        "renderedWidth": 347,
+        "loaded": true
+      },
+      {
+        "file": "b08a6da00ad5-480.webp",
+        "renderedWidth": 347,
+        "loaded": true
+      },
+      {
+        "file": "company-logo.png",
+        "renderedWidth": 105,
+        "loaded": true
+      }
+    ],
+    "allVisibleImagesLoaded": true,
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "encodedBodySize": 160124,
+        "transferSize": 0
+      },
+      {
+        "file": "9557e6e7f375-480.webp",
+        "encodedBodySize": 42278,
+        "transferSize": 0
+      },
+      {
+        "file": "c4387e886659-480.webp",
+        "encodedBodySize": 68876,
+        "transferSize": 0
+      },
+      {
+        "file": "0502def7aff2-480.webp",
+        "encodedBodySize": 22472,
+        "transferSize": 0
+      },
+      {
+        "file": "company-logo.png",
+        "encodedBodySize": 4024,
+        "transferSize": 0
+      },
+      {
+        "file": "noto-sans-jp-2.woff2",
+        "encodedBodySize": 183080,
+        "transferSize": 0
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "encodedBodySize": 107196,
+        "transferSize": 0
+      },
+      {
+        "file": "67fac49bb85d-480.webp",
+        "encodedBodySize": 80450,
+        "transferSize": 80750
+      },
+      {
+        "file": "1533761f94ff-480.webp",
+        "encodedBodySize": 71172,
+        "transferSize": 71472
+      },
+      {
+        "file": "726459b16e47-480.webp",
+        "encodedBodySize": 53442,
+        "transferSize": 53742
+      },
+      {
+        "file": "a2a2e6d3b805-480.webp",
+        "encodedBodySize": 32894,
+        "transferSize": 33194
+      },
+      {
+        "file": "02baab9ed0ff-480.webp",
+        "encodedBodySize": 64526,
+        "transferSize": 64826
+      },
+      {
+        "file": "cd957f92b99d-480.webp",
+        "encodedBodySize": 68868,
+        "transferSize": 69168
+      },
+      {
+        "file": "88055b07a0ce-480.webp",
+        "encodedBodySize": 59190,
+        "transferSize": 59490
+      },
+      {
+        "file": "b08a6da00ad5-480.webp",
+        "encodedBodySize": 31106,
+        "transferSize": 31406
+      },
+      {
+        "file": "favicon.svg",
+        "encodedBodySize": 281,
+        "transferSize": 0
+      }
+    ],
+    "encodedMediaBytes": 1049979,
+    "errors": []
+  },
+  {
+    "path": "company/",
+    "width": 1440,
+    "dpr": 1,
+    "images": [
+      {
+        "file": "97d050523191-480.webp",
+        "renderedWidth": 425,
+        "loaded": true
+      },
+      {
+        "file": "d5ed5e436536-410.webp",
+        "renderedWidth": 425,
+        "loaded": true
+      },
+      {
+        "file": "company-logo.png",
+        "renderedWidth": 105,
+        "loaded": true
+      }
+    ],
+    "allVisibleImagesLoaded": true,
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "encodedBodySize": 160124,
+        "transferSize": 0
+      },
+      {
+        "file": "97d050523191-480.webp",
+        "encodedBodySize": 15504,
+        "transferSize": 0
+      },
+      {
+        "file": "company-logo.png",
+        "encodedBodySize": 4024,
+        "transferSize": 0
+      },
+      {
+        "file": "noto-sans-jp-2.woff2",
+        "encodedBodySize": 183080,
+        "transferSize": 0
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "encodedBodySize": 107196,
+        "transferSize": 0
+      },
+      {
+        "file": "favicon.svg",
+        "encodedBodySize": 281,
+        "transferSize": 0
+      },
+      {
+        "file": "d5ed5e436536-410.webp",
+        "encodedBodySize": 58396,
+        "transferSize": 58696
+      }
+    ],
+    "encodedMediaBytes": 528605,
+    "errors": []
+  }
+]

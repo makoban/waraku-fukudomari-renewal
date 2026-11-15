@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-15",
+  "router_decision": "Air is pressured and Mac mini is unavailable",
+  "router_exit_code": 75,
+  "execution_host": "MacBook Air",
+  "fallback": "User-authorized low-load direct execution",
+  "concurrent_data_jobs": 1,
+  "nice_priority": 19,
+  "source_download_limit_mib_s": 8,
+  "image_conversion_input_limit_mib_s": 16,
+  "image_conversion_workers": 1,
+  "git_on_nas": false,
+  "paid_image_generation_api": false
+}

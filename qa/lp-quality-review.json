@@ -1,0 +1,16 @@
+{
+  "checker_exit_code": 1,
+  "warning_count": 8,
+  "pattern": "ここに",
+  "assessment": "False positives in authentic, migrated article text and search metadata",
+  "original_articles": [
+    "https://waraku-f.jp/blog/503",
+    "https://waraku-f.jp/blog/564"
+  ],
+  "examples": [
+    "ここにいたら家族が心配する",
+    "全てがここに繋がると思っています。"
+  ],
+  "source_text_integrity": "All 201 article bodies match their source text after whitespace normalization",
+  "placeholder_text_added": false
+}

@@ -1,0 +1,9 @@
+LP quality warnings:
+- site/blog/index.html:2:52799: placeholder copy: Remove placeholder copy before delivery.
+- site/blog/index.html:2:66102: placeholder copy: Remove placeholder copy before delivery.
+- site/blog/503/index.html:2:2935: placeholder copy: Remove placeholder copy before delivery.
+- site/blog/564/index.html:2:3286: placeholder copy: Remove placeholder copy before delivery.
+- site/blog/date/2021/10/index.html:2:6816: placeholder copy: Remove placeholder copy before delivery.
+- site/blog/date/2022/02/index.html:2:3933: placeholder copy: Remove placeholder copy before delivery.
+- site/blog/page/6/index.html:2:10988: placeholder copy: Remove placeholder copy before delivery.
+- site/blog/page/8/index.html:2:7529: placeholder copy: Remove placeholder copy before delivery.
