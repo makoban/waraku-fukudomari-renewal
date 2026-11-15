@@ -1,0 +1,55 @@
+{
+  "verified_date": "2026-11-15",
+  "original_page": "https://waraku-f.jp/careplan",
+  "files": [
+    {
+      "file": "site/assets/original/company-logo.png",
+      "url": "https://waraku-f.jp/common/img/logo.png",
+      "role": "既存の会社ロゴ",
+      "bytes": 4024,
+      "sha256": "b2c4431724055f3fbe6b04ad3d6a39bae94038b8e8ec5f03a59183bbee5adc3a",
+      "matches_live_original": true
+    },
+    {
+      "file": "site/assets/original/favicon.png",
+      "url": "https://waraku-f.jp/common/img/favicon.png",
+      "role": "既存のファビコン",
+      "bytes": 12780,
+      "sha256": "b9fa00d3fec5a57d034042014cd5ef69897cdd4d5a51239ac1c472a8b12f879b",
+      "matches_live_original": true
+    },
+    {
+      "file": "site/assets/original/foot-image.jpg",
+      "url": "https://waraku-f.jp/common/img/foot_image.jpg",
+      "role": "元ページに掲載された外観写真と施設案内",
+      "bytes": 48906,
+      "sha256": "5f4051bf0540eae679f3715c24ca756aa1e7d724ac2d18401b2a5581596d3d49",
+      "matches_live_original": true
+    },
+    {
+      "file": "site/assets/original/careplan-illustration.png",
+      "url": "https://waraku-f.jp/common/img/careplan/img_care.png",
+      "role": "元ページのイラスト。保存のみ",
+      "bytes": 44665,
+      "sha256": "2ef05a79ec4b7e0577482be56d7da146de6528bb9b42a39ff4894f1f33ab6c8f",
+      "matches_live_original": true
+    },
+    {
+      "file": "site/assets/original/facility-original.png",
+      "url": "https://waraku-f.jp/common/img/img_section01.png",
+      "role": "現行トップページに掲載された施設内の写真",
+      "bytes": 211984,
+      "sha256": "d8317c7f43d2b930978a3235ab6214ace8802d54789068e0da47cb299134d38e",
+      "matches_live_original": true
+    },
+    {
+      "file": "site/assets/original/access-map.png",
+      "url": "https://waraku-f.jp/common/img/company/map.png",
+      "role": "会社概要に掲載された案内図",
+      "bytes": 174714,
+      "sha256": "1a0eeca0f745bb31ddb3009f8e271f1e76011be1ca0957fa55101b5d3f892d67",
+      "matches_live_original": true
+    }
+  ],
+  "note": "原本は未編集。配信用サムネイルはリサイズ・WebP変換のみ。出典記録は第三者への利用許諾を意味しません。"
+}

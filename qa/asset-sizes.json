@@ -1,0 +1,97 @@
+[
+  {
+    "file": "site/assets/fonts/noto-sans-jp.woff2",
+    "bytes": 110460,
+    "sha256": "22d06684add5ffaf3fa003258379793b4d1839679e1e887deea4e509e5520d42"
+  },
+  {
+    "file": "site/assets/fonts/zen-old-mincho.woff2",
+    "bytes": 63264,
+    "sha256": "c63d0f5443e7065a1838a30f4ca44824cbd870303b398e50fd73c2998567c2e9"
+  },
+  {
+    "file": "site/assets/generated/consultation-1280.webp",
+    "bytes": 145526,
+    "sha256": "87efd032408d362132d91741619258c41716b9c4bc90908b57223f80a258dd75"
+  },
+  {
+    "file": "site/assets/generated/consultation-480.webp",
+    "bytes": 25502,
+    "sha256": "453e28ee397cb8e7c97cb36b5c8d9180795a4967e6d0db3c57fcf63b8b0661c5"
+  },
+  {
+    "file": "site/assets/generated/consultation-800.webp",
+    "bytes": 63536,
+    "sha256": "793293ce6b1383b83a28d72bee02a141e5e9a6cb25efbdecf8de369bc7b8a7c2"
+  },
+  {
+    "file": "site/assets/generated/design-concept.webp",
+    "bytes": 207768,
+    "sha256": "6a43fafaf9780f498d0c166593a79d0257f541b8a3ea92713a67f1745466923d"
+  },
+  {
+    "file": "site/assets/generated/family-1280.webp",
+    "bytes": 124524,
+    "sha256": "e0eddf022f0cc6c483fee5d2df1cb5540d9acf0731075c496387c9ffbb687039"
+  },
+  {
+    "file": "site/assets/generated/family-480.webp",
+    "bytes": 21128,
+    "sha256": "847d8b70fd618bcd9e00d1a5bac3c183716c8841ae4d7edc0bc796ca7791341b"
+  },
+  {
+    "file": "site/assets/generated/family-800.webp",
+    "bytes": 54390,
+    "sha256": "a32275c9b53fd27b1f14eb497bc9af78e8ff393189bdcd7edabd21aa04eb25dc"
+  },
+  {
+    "file": "site/assets/original/access-map.png",
+    "bytes": 174714,
+    "sha256": "1a0eeca0f745bb31ddb3009f8e271f1e76011be1ca0957fa55101b5d3f892d67"
+  },
+  {
+    "file": "site/assets/original/careplan-illustration.png",
+    "bytes": 44665,
+    "sha256": "2ef05a79ec4b7e0577482be56d7da146de6528bb9b42a39ff4894f1f33ab6c8f"
+  },
+  {
+    "file": "site/assets/original/company-logo.png",
+    "bytes": 4024,
+    "sha256": "b2c4431724055f3fbe6b04ad3d6a39bae94038b8e8ec5f03a59183bbee5adc3a"
+  },
+  {
+    "file": "site/assets/original/facility-360.webp",
+    "bytes": 10022,
+    "sha256": "ba65b64ef04442dbc8a573d6c0f5e49481aab968d0368bf188c2ae5ccbf8b5e5"
+  },
+  {
+    "file": "site/assets/original/facility-603.webp",
+    "bytes": 18506,
+    "sha256": "e25dbcf441d47d93fa71710c222f2ba2fbb6f119667b0f158c92d7b52f3ca090"
+  },
+  {
+    "file": "site/assets/original/facility-original.png",
+    "bytes": 211984,
+    "sha256": "d8317c7f43d2b930978a3235ab6214ace8802d54789068e0da47cb299134d38e"
+  },
+  {
+    "file": "site/assets/original/favicon.png",
+    "bytes": 12780,
+    "sha256": "b9fa00d3fec5a57d034042014cd5ef69897cdd4d5a51239ac1c472a8b12f879b"
+  },
+  {
+    "file": "site/assets/original/foot-image.jpg",
+    "bytes": 48906,
+    "sha256": "5f4051bf0540eae679f3715c24ca756aa1e7d724ac2d18401b2a5581596d3d49"
+  },
+  {
+    "file": "site/assets/original/footer-360.webp",
+    "bytes": 12810,
+    "sha256": "5d28d66b8b3a059ed06b33f1fb2faaa72f1897c1d3aae1028539d0c01586ce36"
+  },
+  {
+    "file": "site/assets/original/footer-527.webp",
+    "bytes": 24682,
+    "sha256": "c7cf882c8a60d8d7a3c80b5b7257cdae7d37ec50beb9b60519f2778cefa09473"
+  }
+]

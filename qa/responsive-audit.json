@@ -1,0 +1,902 @@
+[
+  {
+    "width": 320,
+    "deviceScaleFactor": 2,
+    "viewport": 320,
+    "scrollWidth": 320,
+    "overflow": [],
+    "parentOverflow": [],
+    "phraseOverflow": [],
+    "images": [
+      {
+        "alt": "ご本人、ご家族、相談員がテーブルを囲んで話し合うイメージイラスト",
+        "loaded": true,
+        "src": "consultation-800.webp",
+        "width": 280,
+        "rendered": 280
+      },
+      {
+        "alt": "ご家族が相談員と穏やかに話すイメージイラスト",
+        "loaded": true,
+        "src": "family-800.webp",
+        "width": 280,
+        "rendered": 280
+      },
+      {
+        "alt": "元サイトに掲載されている、畳の廊下と階段の写真",
+        "loaded": true,
+        "src": "facility-360.webp",
+        "width": 137,
+        "rendered": 116
+      },
+      {
+        "alt": "施設の外観写真とWARAKU福泊の連絡先が掲載された元ページの案内画像",
+        "loaded": true,
+        "src": "footer-360.webp",
+        "width": 137,
+        "rendered": 116
+      },
+      {
+        "alt": "株式会社 和楽",
+        "loaded": true,
+        "src": "company-logo.png",
+        "width": 147,
+        "rendered": 93
+      }
+    ],
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "transferSize": 110760,
+        "encodedBodySize": 110460
+      },
+      {
+        "file": "consultation-800.webp",
+        "transferSize": 63836,
+        "encodedBodySize": 63536
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "transferSize": 63564,
+        "encodedBodySize": 63264
+      },
+      {
+        "file": "family-800.webp",
+        "transferSize": 54690,
+        "encodedBodySize": 54390
+      },
+      {
+        "file": "favicon.png",
+        "transferSize": 13080,
+        "encodedBodySize": 12780
+      },
+      {
+        "file": "facility-360.webp",
+        "transferSize": 10322,
+        "encodedBodySize": 10022
+      },
+      {
+        "file": "footer-360.webp",
+        "transferSize": 13110,
+        "encodedBodySize": 12810
+      },
+      {
+        "file": "company-logo.png",
+        "transferSize": 4324,
+        "encodedBodySize": 4024
+      }
+    ],
+    "mediaBytes": 331286,
+    "errors": []
+  },
+  {
+    "width": 360,
+    "deviceScaleFactor": 2,
+    "viewport": 360,
+    "scrollWidth": 360,
+    "overflow": [],
+    "parentOverflow": [],
+    "phraseOverflow": [],
+    "images": [
+      {
+        "alt": "ご本人、ご家族、相談員がテーブルを囲んで話し合うイメージイラスト",
+        "loaded": true,
+        "src": "consultation-800.webp",
+        "width": 320,
+        "rendered": 320
+      },
+      {
+        "alt": "ご家族が相談員と穏やかに話すイメージイラスト",
+        "loaded": true,
+        "src": "family-800.webp",
+        "width": 320,
+        "rendered": 320
+      },
+      {
+        "alt": "元サイトに掲載されている、畳の廊下と階段の写真",
+        "loaded": true,
+        "src": "facility-360.webp",
+        "width": 154,
+        "rendered": 136
+      },
+      {
+        "alt": "施設の外観写真とWARAKU福泊の連絡先が掲載された元ページの案内画像",
+        "loaded": true,
+        "src": "footer-360.webp",
+        "width": 154,
+        "rendered": 136
+      },
+      {
+        "alt": "株式会社 和楽",
+        "loaded": true,
+        "src": "company-logo.png",
+        "width": 147,
+        "rendered": 93
+      }
+    ],
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "transferSize": 110760,
+        "encodedBodySize": 110460
+      },
+      {
+        "file": "consultation-800.webp",
+        "transferSize": 63836,
+        "encodedBodySize": 63536
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "transferSize": 63564,
+        "encodedBodySize": 63264
+      },
+      {
+        "file": "family-800.webp",
+        "transferSize": 54690,
+        "encodedBodySize": 54390
+      },
+      {
+        "file": "favicon.png",
+        "transferSize": 13080,
+        "encodedBodySize": 12780
+      },
+      {
+        "file": "facility-360.webp",
+        "transferSize": 10322,
+        "encodedBodySize": 10022
+      },
+      {
+        "file": "footer-360.webp",
+        "transferSize": 13110,
+        "encodedBodySize": 12810
+      },
+      {
+        "file": "company-logo.png",
+        "transferSize": 4324,
+        "encodedBodySize": 4024
+      }
+    ],
+    "mediaBytes": 331286,
+    "errors": []
+  },
+  {
+    "width": 375,
+    "deviceScaleFactor": 2,
+    "viewport": 375,
+    "scrollWidth": 375,
+    "overflow": [],
+    "parentOverflow": [],
+    "phraseOverflow": [],
+    "images": [
+      {
+        "alt": "ご本人、ご家族、相談員がテーブルを囲んで話し合うイメージイラスト",
+        "loaded": true,
+        "src": "consultation-800.webp",
+        "width": 335,
+        "rendered": 335
+      },
+      {
+        "alt": "ご家族が相談員と穏やかに話すイメージイラスト",
+        "loaded": true,
+        "src": "family-800.webp",
+        "width": 335,
+        "rendered": 335
+      },
+      {
+        "alt": "元サイトに掲載されている、畳の廊下と階段の写真",
+        "loaded": true,
+        "src": "facility-360.webp",
+        "width": 161,
+        "rendered": 144
+      },
+      {
+        "alt": "施設の外観写真とWARAKU福泊の連絡先が掲載された元ページの案内画像",
+        "loaded": true,
+        "src": "footer-360.webp",
+        "width": 161,
+        "rendered": 144
+      },
+      {
+        "alt": "株式会社 和楽",
+        "loaded": true,
+        "src": "company-logo.png",
+        "width": 147,
+        "rendered": 93
+      }
+    ],
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "transferSize": 110760,
+        "encodedBodySize": 110460
+      },
+      {
+        "file": "consultation-800.webp",
+        "transferSize": 63836,
+        "encodedBodySize": 63536
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "transferSize": 63564,
+        "encodedBodySize": 63264
+      },
+      {
+        "file": "family-800.webp",
+        "transferSize": 54690,
+        "encodedBodySize": 54390
+      },
+      {
+        "file": "favicon.png",
+        "transferSize": 13080,
+        "encodedBodySize": 12780
+      },
+      {
+        "file": "facility-360.webp",
+        "transferSize": 10322,
+        "encodedBodySize": 10022
+      },
+      {
+        "file": "footer-360.webp",
+        "transferSize": 13110,
+        "encodedBodySize": 12810
+      },
+      {
+        "file": "company-logo.png",
+        "transferSize": 4324,
+        "encodedBodySize": 4024
+      }
+    ],
+    "mediaBytes": 331286,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "deviceScaleFactor": 2,
+    "viewport": 390,
+    "scrollWidth": 390,
+    "overflow": [],
+    "parentOverflow": [],
+    "phraseOverflow": [],
+    "images": [
+      {
+        "alt": "ご本人、ご家族、相談員がテーブルを囲んで話し合うイメージイラスト",
+        "loaded": true,
+        "src": "consultation-800.webp",
+        "width": 349,
+        "rendered": 350
+      },
+      {
+        "alt": "ご家族が相談員と穏やかに話すイメージイラスト",
+        "loaded": true,
+        "src": "family-800.webp",
+        "width": 349,
+        "rendered": 350
+      },
+      {
+        "alt": "元サイトに掲載されている、畳の廊下と階段の写真",
+        "loaded": true,
+        "src": "facility-360.webp",
+        "width": 167,
+        "rendered": 151
+      },
+      {
+        "alt": "施設の外観写真とWARAKU福泊の連絡先が掲載された元ページの案内画像",
+        "loaded": true,
+        "src": "footer-360.webp",
+        "width": 167,
+        "rendered": 151
+      },
+      {
+        "alt": "株式会社 和楽",
+        "loaded": true,
+        "src": "company-logo.png",
+        "width": 147,
+        "rendered": 93
+      }
+    ],
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "transferSize": 110760,
+        "encodedBodySize": 110460
+      },
+      {
+        "file": "consultation-800.webp",
+        "transferSize": 63836,
+        "encodedBodySize": 63536
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "transferSize": 63564,
+        "encodedBodySize": 63264
+      },
+      {
+        "file": "family-800.webp",
+        "transferSize": 54690,
+        "encodedBodySize": 54390
+      },
+      {
+        "file": "favicon.png",
+        "transferSize": 13080,
+        "encodedBodySize": 12780
+      },
+      {
+        "file": "facility-360.webp",
+        "transferSize": 10322,
+        "encodedBodySize": 10022
+      },
+      {
+        "file": "footer-360.webp",
+        "transferSize": 13110,
+        "encodedBodySize": 12810
+      },
+      {
+        "file": "company-logo.png",
+        "transferSize": 4324,
+        "encodedBodySize": 4024
+      }
+    ],
+    "mediaBytes": 331286,
+    "errors": []
+  },
+  {
+    "width": 393,
+    "deviceScaleFactor": 2,
+    "viewport": 393,
+    "scrollWidth": 393,
+    "overflow": [],
+    "parentOverflow": [],
+    "phraseOverflow": [],
+    "images": [
+      {
+        "alt": "ご本人、ご家族、相談員がテーブルを囲んで話し合うイメージイラスト",
+        "loaded": true,
+        "src": "consultation-800.webp",
+        "width": 353,
+        "rendered": 353
+      },
+      {
+        "alt": "ご家族が相談員と穏やかに話すイメージイラスト",
+        "loaded": true,
+        "src": "family-800.webp",
+        "width": 353,
+        "rendered": 353
+      },
+      {
+        "alt": "元サイトに掲載されている、畳の廊下と階段の写真",
+        "loaded": true,
+        "src": "facility-360.webp",
+        "width": 168,
+        "rendered": 153
+      },
+      {
+        "alt": "施設の外観写真とWARAKU福泊の連絡先が掲載された元ページの案内画像",
+        "loaded": true,
+        "src": "footer-360.webp",
+        "width": 168,
+        "rendered": 153
+      },
+      {
+        "alt": "株式会社 和楽",
+        "loaded": true,
+        "src": "company-logo.png",
+        "width": 147,
+        "rendered": 93
+      }
+    ],
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "transferSize": 110760,
+        "encodedBodySize": 110460
+      },
+      {
+        "file": "consultation-800.webp",
+        "transferSize": 63836,
+        "encodedBodySize": 63536
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "transferSize": 63564,
+        "encodedBodySize": 63264
+      },
+      {
+        "file": "family-800.webp",
+        "transferSize": 54690,
+        "encodedBodySize": 54390
+      },
+      {
+        "file": "favicon.png",
+        "transferSize": 13080,
+        "encodedBodySize": 12780
+      },
+      {
+        "file": "facility-360.webp",
+        "transferSize": 10322,
+        "encodedBodySize": 10022
+      },
+      {
+        "file": "footer-360.webp",
+        "transferSize": 13110,
+        "encodedBodySize": 12810
+      },
+      {
+        "file": "company-logo.png",
+        "transferSize": 4324,
+        "encodedBodySize": 4024
+      }
+    ],
+    "mediaBytes": 331286,
+    "errors": []
+  },
+  {
+    "width": 412,
+    "deviceScaleFactor": 2,
+    "viewport": 412,
+    "scrollWidth": 412,
+    "overflow": [],
+    "parentOverflow": [],
+    "phraseOverflow": [],
+    "images": [
+      {
+        "alt": "ご本人、ご家族、相談員がテーブルを囲んで話し合うイメージイラスト",
+        "loaded": true,
+        "src": "consultation-800.webp",
+        "width": 371,
+        "rendered": 372
+      },
+      {
+        "alt": "ご家族が相談員と穏やかに話すイメージイラスト",
+        "loaded": true,
+        "src": "family-800.webp",
+        "width": 371,
+        "rendered": 372
+      },
+      {
+        "alt": "元サイトに掲載されている、畳の廊下と階段の写真",
+        "loaded": true,
+        "src": "facility-360.webp",
+        "width": 177,
+        "rendered": 162
+      },
+      {
+        "alt": "施設の外観写真とWARAKU福泊の連絡先が掲載された元ページの案内画像",
+        "loaded": true,
+        "src": "footer-360.webp",
+        "width": 177,
+        "rendered": 162
+      },
+      {
+        "alt": "株式会社 和楽",
+        "loaded": true,
+        "src": "company-logo.png",
+        "width": 147,
+        "rendered": 93
+      }
+    ],
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "transferSize": 110760,
+        "encodedBodySize": 110460
+      },
+      {
+        "file": "consultation-800.webp",
+        "transferSize": 63836,
+        "encodedBodySize": 63536
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "transferSize": 63564,
+        "encodedBodySize": 63264
+      },
+      {
+        "file": "family-800.webp",
+        "transferSize": 54690,
+        "encodedBodySize": 54390
+      },
+      {
+        "file": "favicon.png",
+        "transferSize": 13080,
+        "encodedBodySize": 12780
+      },
+      {
+        "file": "facility-360.webp",
+        "transferSize": 10322,
+        "encodedBodySize": 10022
+      },
+      {
+        "file": "footer-360.webp",
+        "transferSize": 13110,
+        "encodedBodySize": 12810
+      },
+      {
+        "file": "company-logo.png",
+        "transferSize": 4324,
+        "encodedBodySize": 4024
+      }
+    ],
+    "mediaBytes": 331286,
+    "errors": []
+  },
+  {
+    "width": 430,
+    "deviceScaleFactor": 2,
+    "viewport": 430,
+    "scrollWidth": 430,
+    "overflow": [],
+    "parentOverflow": [],
+    "phraseOverflow": [],
+    "images": [
+      {
+        "alt": "ご本人、ご家族、相談員がテーブルを囲んで話し合うイメージイラスト",
+        "loaded": true,
+        "src": "consultation-800.webp",
+        "width": 390,
+        "rendered": 390
+      },
+      {
+        "alt": "ご家族が相談員と穏やかに話すイメージイラスト",
+        "loaded": true,
+        "src": "family-800.webp",
+        "width": 390,
+        "rendered": 390
+      },
+      {
+        "alt": "元サイトに掲載されている、畳の廊下と階段の写真",
+        "loaded": true,
+        "src": "facility-603.webp",
+        "width": 184,
+        "rendered": 171
+      },
+      {
+        "alt": "施設の外観写真とWARAKU福泊の連絡先が掲載された元ページの案内画像",
+        "loaded": true,
+        "src": "footer-527.webp",
+        "width": 184,
+        "rendered": 171
+      },
+      {
+        "alt": "株式会社 和楽",
+        "loaded": true,
+        "src": "company-logo.png",
+        "width": 147,
+        "rendered": 93
+      }
+    ],
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "transferSize": 110760,
+        "encodedBodySize": 110460
+      },
+      {
+        "file": "consultation-800.webp",
+        "transferSize": 63836,
+        "encodedBodySize": 63536
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "transferSize": 63564,
+        "encodedBodySize": 63264
+      },
+      {
+        "file": "family-800.webp",
+        "transferSize": 54690,
+        "encodedBodySize": 54390
+      },
+      {
+        "file": "favicon.png",
+        "transferSize": 13080,
+        "encodedBodySize": 12780
+      },
+      {
+        "file": "facility-603.webp",
+        "transferSize": 18806,
+        "encodedBodySize": 18506
+      },
+      {
+        "file": "footer-527.webp",
+        "transferSize": 24982,
+        "encodedBodySize": 24682
+      },
+      {
+        "file": "company-logo.png",
+        "transferSize": 4324,
+        "encodedBodySize": 4024
+      }
+    ],
+    "mediaBytes": 351642,
+    "errors": []
+  },
+  {
+    "width": 768,
+    "deviceScaleFactor": 1,
+    "viewport": 768,
+    "scrollWidth": 768,
+    "overflow": [],
+    "parentOverflow": [],
+    "phraseOverflow": [],
+    "images": [
+      {
+        "alt": "ご本人、ご家族、相談員がテーブルを囲んで話し合うイメージイラスト",
+        "loaded": true,
+        "src": "consultation-800.webp",
+        "width": 649,
+        "rendered": 650
+      },
+      {
+        "alt": "ご家族が相談員と穏やかに話すイメージイラスト",
+        "loaded": true,
+        "src": "family-800.webp",
+        "width": 649,
+        "rendered": 352
+      },
+      {
+        "alt": "元サイトに掲載されている、畳の廊下と階段の写真",
+        "loaded": true,
+        "src": "facility-360.webp",
+        "width": 322,
+        "rendered": 290
+      },
+      {
+        "alt": "施設の外観写真とWARAKU福泊の連絡先が掲載された元ページの案内画像",
+        "loaded": true,
+        "src": "footer-360.webp",
+        "width": 322,
+        "rendered": 290
+      },
+      {
+        "alt": "株式会社 和楽",
+        "loaded": true,
+        "src": "company-logo.png",
+        "width": 147,
+        "rendered": 105
+      }
+    ],
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "transferSize": 110760,
+        "encodedBodySize": 110460
+      },
+      {
+        "file": "consultation-800.webp",
+        "transferSize": 63836,
+        "encodedBodySize": 63536
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "transferSize": 63564,
+        "encodedBodySize": 63264
+      },
+      {
+        "file": "family-800.webp",
+        "transferSize": 54690,
+        "encodedBodySize": 54390
+      },
+      {
+        "file": "favicon.png",
+        "transferSize": 13080,
+        "encodedBodySize": 12780
+      },
+      {
+        "file": "facility-360.webp",
+        "transferSize": 10322,
+        "encodedBodySize": 10022
+      },
+      {
+        "file": "footer-360.webp",
+        "transferSize": 13110,
+        "encodedBodySize": 12810
+      },
+      {
+        "file": "company-logo.png",
+        "transferSize": 4324,
+        "encodedBodySize": 4024
+      }
+    ],
+    "mediaBytes": 331286,
+    "errors": []
+  },
+  {
+    "width": 1024,
+    "deviceScaleFactor": 1,
+    "viewport": 1024,
+    "scrollWidth": 1024,
+    "overflow": [],
+    "parentOverflow": [],
+    "phraseOverflow": [],
+    "images": [
+      {
+        "alt": "ご本人、ご家族、相談員がテーブルを囲んで話し合うイメージイラスト",
+        "loaded": true,
+        "src": "consultation-800.webp",
+        "width": 532,
+        "rendered": 509
+      },
+      {
+        "alt": "ご家族が相談員と穏やかに話すイメージイラスト",
+        "loaded": true,
+        "src": "family-480.webp",
+        "width": 471,
+        "rendered": 509
+      },
+      {
+        "alt": "元サイトに掲載されている、畳の廊下と階段の写真",
+        "loaded": true,
+        "src": "facility-360.webp",
+        "width": 280,
+        "rendered": 205
+      },
+      {
+        "alt": "施設の外観写真とWARAKU福泊の連絡先が掲載された元ページの案内画像",
+        "loaded": true,
+        "src": "footer-360.webp",
+        "width": 280,
+        "rendered": 205
+      },
+      {
+        "alt": "株式会社 和楽",
+        "loaded": true,
+        "src": "company-logo.png",
+        "width": 147,
+        "rendered": 105
+      }
+    ],
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "transferSize": 110760,
+        "encodedBodySize": 110460
+      },
+      {
+        "file": "consultation-800.webp",
+        "transferSize": 63836,
+        "encodedBodySize": 63536
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "transferSize": 63564,
+        "encodedBodySize": 63264
+      },
+      {
+        "file": "facility-360.webp",
+        "transferSize": 10322,
+        "encodedBodySize": 10022
+      },
+      {
+        "file": "footer-360.webp",
+        "transferSize": 13110,
+        "encodedBodySize": 12810
+      },
+      {
+        "file": "family-480.webp",
+        "transferSize": 21428,
+        "encodedBodySize": 21128
+      },
+      {
+        "file": "favicon.png",
+        "transferSize": 13080,
+        "encodedBodySize": 12780
+      },
+      {
+        "file": "company-logo.png",
+        "transferSize": 4324,
+        "encodedBodySize": 4024
+      }
+    ],
+    "mediaBytes": 298024,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "deviceScaleFactor": 1,
+    "viewport": 1440,
+    "scrollWidth": 1440,
+    "overflow": [],
+    "parentOverflow": [],
+    "phraseOverflow": [],
+    "images": [
+      {
+        "alt": "ご本人、ご家族、相談員がテーブルを囲んで話し合うイメージイラスト",
+        "loaded": true,
+        "src": "consultation-800.webp",
+        "width": 748,
+        "rendered": 636
+      },
+      {
+        "alt": "ご家族が相談員と穏やかに話すイメージイラスト",
+        "loaded": true,
+        "src": "family-800.webp",
+        "width": 662,
+        "rendered": 636
+      },
+      {
+        "alt": "元サイトに掲載されている、畳の廊下と階段の写真",
+        "loaded": true,
+        "src": "facility-360.webp",
+        "width": 280,
+        "rendered": 265
+      },
+      {
+        "alt": "施設の外観写真とWARAKU福泊の連絡先が掲載された元ページの案内画像",
+        "loaded": true,
+        "src": "footer-360.webp",
+        "width": 280,
+        "rendered": 265
+      },
+      {
+        "alt": "株式会社 和楽",
+        "loaded": true,
+        "src": "company-logo.png",
+        "width": 147,
+        "rendered": 105
+      }
+    ],
+    "media": [
+      {
+        "file": "noto-sans-jp.woff2",
+        "transferSize": 110760,
+        "encodedBodySize": 110460
+      },
+      {
+        "file": "consultation-800.webp",
+        "transferSize": 63836,
+        "encodedBodySize": 63536
+      },
+      {
+        "file": "zen-old-mincho.woff2",
+        "transferSize": 63564,
+        "encodedBodySize": 63264
+      },
+      {
+        "file": "family-800.webp",
+        "transferSize": 54690,
+        "encodedBodySize": 54390
+      },
+      {
+        "file": "favicon.png",
+        "transferSize": 13080,
+        "encodedBodySize": 12780
+      },
+      {
+        "file": "facility-360.webp",
+        "transferSize": 10322,
+        "encodedBodySize": 10022
+      },
+      {
+        "file": "footer-360.webp",
+        "transferSize": 13110,
+        "encodedBodySize": 12810
+      },
+      {
+        "file": "company-logo.png",
+        "transferSize": 4324,
+        "encodedBodySize": 4024
+      }
+    ],
+    "mediaBytes": 331286,
+    "errors": []
+  }
+]
