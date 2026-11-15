@@ -1,0 +1,35 @@
+{
+  "initialRows": 10,
+  "mobileMode": {
+    "mode": "mobile",
+    "status": "スマホ 390 × 844 / 10画面",
+    "sources": [
+      "http://127.0.0.1:8798/comparison/assets/home-mobile-before-390.webp",
+      "http://127.0.0.1:8798/comparison/assets/home-mobile-after-390.webp"
+    ],
+    "url": "http://127.0.0.1:8798/comparison/?device=mobile"
+  },
+  "filteredRows": 1,
+  "filteredStatus": "スマホ 390 × 844 / 1画面",
+  "zoom": {
+    "open": true,
+    "title": "ケアプラン福泊・既存サイト / スマホ",
+    "loaded": true,
+    "original": "assets/png/careplan-mobile-before.png",
+    "fits": true
+  },
+  "escapeCloses": true,
+  "focusReturns": true,
+  "closeButton": true,
+  "indexSelectsCompany": "company",
+  "deepLink": {
+    "mode": "mobile",
+    "selected": "article",
+    "visible": [
+      "article"
+    ]
+  },
+  "all40ImagesLoad": true,
+  "imageCount": 40,
+  "printControlsHidden": true
+}

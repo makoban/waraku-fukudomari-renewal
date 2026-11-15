@@ -1,8 +1,10 @@
 # WARAKU福泊 サイト全体リニューアル案
 
-[リニューアルサイト](https://makoban.github.io/waraku-fukudomari-renewal/) · [サイトマップ](https://makoban.github.io/waraku-fukudomari-renewal/sitemap/) · [生成デザイン原案](https://makoban.github.io/waraku-fukudomari-renewal/design.html) · [現行サイト](https://waraku-f.jp/)
+[リニューアルサイト](https://makoban.github.io/waraku-fukudomari-renewal/) · [既存とのスクリーンショット比較表](https://makoban.github.io/waraku-fukudomari-renewal/comparison/) · [サイトマップ](https://makoban.github.io/waraku-fukudomari-renewal/sitemap/) · [生成デザイン原案](https://makoban.github.io/waraku-fukudomari-renewal/design.html) · [現行サイト](https://waraku-f.jp/)
 
 WARAKU福泊のサイト全体を対象にした、操作可能なデザイン確認用サイトです。メニューから移動する全ページを統一したデザインに変更し、過去の記事本文・投稿日・写真も引き継いでいます。配信先はGitHub Pagesです。現行の公式サイトのドメイン・サーバー・WordPressには変更を加えていません。
+
+比較表は、主要8ページと記事・月別一覧の代表2画面について、PC・スマホで実際の表示を撮影した40枚を掲載しています。PCは1440×1000、スマホは390×844のブラウザー条件です。旧サイトの幅1200pxによる自動縮小もそのまま記録しています。2026年11月15日撮影。比較表はサイト本体とは別の追加1ページで、PNG原本・撮影記録・原本40枚のZIPも保存しています。スクリーンショットを生成画像に置き換えていません。
 
 ## 対象ページ
 
