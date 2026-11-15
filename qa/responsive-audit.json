@@ -66,9 +66,9 @@
         "encodedBodySize": 54390
       },
       {
-        "file": "favicon.png",
-        "transferSize": 13080,
-        "encodedBodySize": 12780
+        "file": "favicon.svg",
+        "transferSize": 581,
+        "encodedBodySize": 281
       },
       {
         "file": "facility-360.webp",
@@ -86,7 +86,7 @@
         "encodedBodySize": 4024
       }
     ],
-    "mediaBytes": 331286,
+    "mediaBytes": 318787,
     "errors": []
   },
   {
@@ -156,9 +156,9 @@
         "encodedBodySize": 54390
       },
       {
-        "file": "favicon.png",
-        "transferSize": 13080,
-        "encodedBodySize": 12780
+        "file": "favicon.svg",
+        "transferSize": 581,
+        "encodedBodySize": 281
       },
       {
         "file": "facility-360.webp",
@@ -176,7 +176,7 @@
         "encodedBodySize": 4024
       }
     ],
-    "mediaBytes": 331286,
+    "mediaBytes": 318787,
     "errors": []
   },
   {
@@ -226,14 +226,14 @@
     ],
     "media": [
       {
-        "file": "noto-sans-jp.woff2",
-        "transferSize": 110760,
-        "encodedBodySize": 110460
-      },
-      {
         "file": "consultation-800.webp",
         "transferSize": 63836,
         "encodedBodySize": 63536
+      },
+      {
+        "file": "noto-sans-jp.woff2",
+        "transferSize": 110760,
+        "encodedBodySize": 110460
       },
       {
         "file": "zen-old-mincho.woff2",
@@ -246,14 +246,9 @@
         "encodedBodySize": 54390
       },
       {
-        "file": "favicon.png",
-        "transferSize": 13080,
-        "encodedBodySize": 12780
-      },
-      {
-        "file": "facility-360.webp",
-        "transferSize": 10322,
-        "encodedBodySize": 10022
+        "file": "favicon.svg",
+        "transferSize": 581,
+        "encodedBodySize": 281
       },
       {
         "file": "footer-360.webp",
@@ -261,12 +256,17 @@
         "encodedBodySize": 12810
       },
       {
+        "file": "facility-360.webp",
+        "transferSize": 10322,
+        "encodedBodySize": 10022
+      },
+      {
         "file": "company-logo.png",
         "transferSize": 4324,
         "encodedBodySize": 4024
       }
     ],
-    "mediaBytes": 331286,
+    "mediaBytes": 318787,
     "errors": []
   },
   {
@@ -336,9 +336,9 @@
         "encodedBodySize": 54390
       },
       {
-        "file": "favicon.png",
-        "transferSize": 13080,
-        "encodedBodySize": 12780
+        "file": "favicon.svg",
+        "transferSize": 581,
+        "encodedBodySize": 281
       },
       {
         "file": "facility-360.webp",
@@ -356,7 +356,7 @@
         "encodedBodySize": 4024
       }
     ],
-    "mediaBytes": 331286,
+    "mediaBytes": 318787,
     "errors": []
   },
   {
@@ -426,14 +426,9 @@
         "encodedBodySize": 54390
       },
       {
-        "file": "favicon.png",
-        "transferSize": 13080,
-        "encodedBodySize": 12780
-      },
-      {
-        "file": "facility-360.webp",
-        "transferSize": 10322,
-        "encodedBodySize": 10022
+        "file": "favicon.svg",
+        "transferSize": 581,
+        "encodedBodySize": 281
       },
       {
         "file": "footer-360.webp",
@@ -441,12 +436,17 @@
         "encodedBodySize": 12810
       },
       {
+        "file": "facility-360.webp",
+        "transferSize": 10322,
+        "encodedBodySize": 10022
+      },
+      {
         "file": "company-logo.png",
         "transferSize": 4324,
         "encodedBodySize": 4024
       }
     ],
-    "mediaBytes": 331286,
+    "mediaBytes": 318787,
     "errors": []
   },
   {
@@ -516,9 +516,9 @@
         "encodedBodySize": 54390
       },
       {
-        "file": "favicon.png",
-        "transferSize": 13080,
-        "encodedBodySize": 12780
+        "file": "favicon.svg",
+        "transferSize": 581,
+        "encodedBodySize": 281
       },
       {
         "file": "facility-360.webp",
@@ -536,7 +536,7 @@
         "encodedBodySize": 4024
       }
     ],
-    "mediaBytes": 331286,
+    "mediaBytes": 318787,
     "errors": []
   },
   {
@@ -601,14 +601,14 @@
         "encodedBodySize": 63264
       },
       {
+        "file": "favicon.svg",
+        "transferSize": 581,
+        "encodedBodySize": 281
+      },
+      {
         "file": "family-800.webp",
         "transferSize": 54690,
         "encodedBodySize": 54390
-      },
-      {
-        "file": "favicon.png",
-        "transferSize": 13080,
-        "encodedBodySize": 12780
       },
       {
         "file": "facility-603.webp",
@@ -626,7 +626,7 @@
         "encodedBodySize": 4024
       }
     ],
-    "mediaBytes": 351642,
+    "mediaBytes": 339143,
     "errors": []
   },
   {
@@ -696,9 +696,9 @@
         "encodedBodySize": 54390
       },
       {
-        "file": "favicon.png",
-        "transferSize": 13080,
-        "encodedBodySize": 12780
+        "file": "favicon.svg",
+        "transferSize": 581,
+        "encodedBodySize": 281
       },
       {
         "file": "facility-360.webp",
@@ -716,7 +716,7 @@
         "encodedBodySize": 4024
       }
     ],
-    "mediaBytes": 331286,
+    "mediaBytes": 318787,
     "errors": []
   },
   {
@@ -786,19 +786,19 @@
         "encodedBodySize": 10022
       },
       {
-        "file": "footer-360.webp",
-        "transferSize": 13110,
-        "encodedBodySize": 12810
-      },
-      {
         "file": "family-480.webp",
         "transferSize": 21428,
         "encodedBodySize": 21128
       },
       {
-        "file": "favicon.png",
-        "transferSize": 13080,
-        "encodedBodySize": 12780
+        "file": "footer-360.webp",
+        "transferSize": 13110,
+        "encodedBodySize": 12810
+      },
+      {
+        "file": "favicon.svg",
+        "transferSize": 581,
+        "encodedBodySize": 281
       },
       {
         "file": "company-logo.png",
@@ -806,7 +806,7 @@
         "encodedBodySize": 4024
       }
     ],
-    "mediaBytes": 298024,
+    "mediaBytes": 285525,
     "errors": []
   },
   {
@@ -876,9 +876,9 @@
         "encodedBodySize": 54390
       },
       {
-        "file": "favicon.png",
-        "transferSize": 13080,
-        "encodedBodySize": 12780
+        "file": "favicon.svg",
+        "transferSize": 581,
+        "encodedBodySize": 281
       },
       {
         "file": "facility-360.webp",
@@ -896,7 +896,7 @@
         "encodedBodySize": 4024
       }
     ],
-    "mediaBytes": 331286,
+    "mediaBytes": 318787,
     "errors": []
   }
 ]

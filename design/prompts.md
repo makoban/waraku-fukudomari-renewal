@@ -16,7 +16,7 @@ Create one beautiful, clear 3:2 landscape illustration, with NO words or letteri
 ```text
 Model: gpt-image2.
 Use case: illustration-story.
-Asset type: finished editorial supporting illustration for Japanese eldercare consultation website. 
+Asset type: finished editorial supporting illustration for Japanese eldercare consultation website.
 Create ONE 3:2 landscape illustration matching the warmth, careful faces, colored pencil and gouache quality, cream, terracotta and sage palette of the supplied reference illustration. Scene is DIFFERENT: a thoughtful Japanese woman in her late 40s and her elderly mother sitting side by side on a simple sofa, talking with a female care manager seated opposite, hands resting naturally, one plain folder and tea cups on a small coffee table. Three people only. This represents a calm, approachable conversation about care, not medical treatment. All people are fictional. A minimal generic interior, no identifiable facility, no uniforms, no logos. Airy composition with comfortable outer margins, almost-white warm paper #fbf8f2. Add one elegant plant. No words, no numbers, no claims, no icons, no medical symbols. Clearly hand-painted editorial illustration, never photorealistic. This is a generic illustrative scene, not actual staff or customers. Faces kind and adult, anatomy precise. Keep the illustration visually lighter and more spacious than the reference so it works beside a text column.
 ```
 

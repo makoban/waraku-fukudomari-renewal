@@ -41,7 +41,7 @@ async (page) => {
         return text.width > box.width + 1 ? [{text: element.textContent, width: text.width, boxWidth: box.width}] : [];
       });
       const images = [...document.images].filter(element => !element.closest('dialog')).map(element => ({alt: element.alt, loaded: element.complete && element.naturalWidth > 0, src: element.currentSrc.split('/').pop(), width: element.naturalWidth, rendered: Math.round(element.getBoundingClientRect().width)}));
-      const media = performance.getEntriesByType('resource').filter(entry => /\.(webp|png|jpg|woff2)(\?|$)/.test(entry.name)).map(entry => ({file: entry.name.split('/').pop(), transferSize: entry.transferSize, encodedBodySize: entry.encodedBodySize}));
+      const media = performance.getEntriesByType('resource').filter(entry => /\.(webp|png|jpg|svg|woff2)(\?|$)/.test(entry.name)).map(entry => ({file: entry.name.split('/').pop(), transferSize: entry.transferSize, encodedBodySize: entry.encodedBodySize}));
       return {viewport: document.documentElement.clientWidth, scrollWidth: document.documentElement.scrollWidth, overflow, parentOverflow, phraseOverflow, images, media, mediaBytes: media.reduce((sum, entry) => sum + entry.encodedBodySize, 0)};
     });
     results.push({width, deviceScaleFactor: width < 720 ? 2 : 1, ...audit, errors});

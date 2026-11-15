@@ -1,5 +1,20 @@
 [
   {
+    "file": "site/assets/favicon.svg",
+    "bytes": 281,
+    "sha256": "abc231d0c388d48f0cdd6613ae5db6468d05109c726972610b37689ca34f461d"
+  },
+  {
+    "file": "site/assets/fonts/OFL-NotoSansJP.txt",
+    "bytes": 4387,
+    "sha256": "babcfe66c8a098b2fa279bc724a3a342f8124f77ce18941fbcc1bbb39823cded"
+  },
+  {
+    "file": "site/assets/fonts/OFL-ZenOldMincho.txt",
+    "bytes": 4399,
+    "sha256": "9b50f4a0ffba9560c6c2300dbf625453e6cedc382de3e106844e8bc5fd184cc2"
+  },
+  {
     "file": "site/assets/fonts/noto-sans-jp.woff2",
     "bytes": 110460,
     "sha256": "22d06684add5ffaf3fa003258379793b4d1839679e1e887deea4e509e5520d42"
@@ -73,11 +88,6 @@
     "file": "site/assets/original/facility-original.png",
     "bytes": 211984,
     "sha256": "d8317c7f43d2b930978a3235ab6214ace8802d54789068e0da47cb299134d38e"
-  },
-  {
-    "file": "site/assets/original/favicon.png",
-    "bytes": 12780,
-    "sha256": "b9fa00d3fec5a57d034042014cd5ef69897cdd4d5a51239ac1c472a8b12f879b"
   },
   {
     "file": "site/assets/original/foot-image.jpg",

@@ -11,14 +11,6 @@
       "matches_live_original": true
     },
     {
-      "file": "site/assets/original/favicon.png",
-      "url": "https://waraku-f.jp/common/img/favicon.png",
-      "role": "既存のファビコン",
-      "bytes": 12780,
-      "sha256": "b9fa00d3fec5a57d034042014cd5ef69897cdd4d5a51239ac1c472a8b12f879b",
-      "matches_live_original": true
-    },
-    {
       "file": "site/assets/original/foot-image.jpg",
       "url": "https://waraku-f.jp/common/img/foot_image.jpg",
       "role": "元ページに掲載された外観写真と施設案内",
